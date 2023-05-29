@@ -940,7 +940,7 @@ input[type=radio] {
 footer {
     position: fixed;
     bottom: 0px;
-    width: 100%;
+    width: -webkit-fill-available;
     background-color: #010e45;;
     display: flex;
     flex-direction: row;
